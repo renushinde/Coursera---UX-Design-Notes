@@ -13,4 +13,6 @@ A product is a good, service or a feature.
   
   . Useful - A product has to solve the problem. Eg, Google maps. 
   
-  
+ ## Why is UX important?
+ Regardless of industries, business that focuses on good usability and designs perform better than their competetors. 
+ 
