@@ -22,3 +22,11 @@ A design sprint can answer critical business questins to design challenges. The 
 * Decide - One solution is finalises in this phase. 
 * Prototype - step by step prototype is made to test with real users.
 * Test - In this phase the prototype is shown to different users and we get feedback.  
+
+## Plan a Design Sprint 
+* Research
+* Talk with experts as it'll be useful for the understand phase 
+* Find the right space - whiteboards, sticky notes, markers, comfortable furnitures to move around.
+* Gather supplies
+* Rules like no gadgets.
+* Plan instructions. 
