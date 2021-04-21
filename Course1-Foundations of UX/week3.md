@@ -30,3 +30,10 @@ A design sprint can answer critical business questins to design challenges. The 
 * Gather supplies
 * Rules like no gadgets.
 * Plan instructions. 
+
+## What should be covered in the logistics section of a design sprint brief? 
+
+* Key deliverables and objectives to meet at the end of the sprint
+* Current state of the project and estimated launch plan
+* Where and when the sprint will happen
+* Name of sprint master and list of attendees
