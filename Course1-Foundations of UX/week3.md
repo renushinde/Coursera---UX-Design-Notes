@@ -8,6 +8,8 @@ A design sprint can answer critical business questins to design challenges. The 
 * It creates a path to bring a product in market. 
 * Prioritize the user.  Sprint puts users front and center. 
 * Sprints allow you to fast forward into the future to test your product and get customer reactions before making any expensive decisions.
+* Sprints are versatile, they can be scheduled at any point during a project. 
+* It values every person in the room.
 
 ## When to Sprint?
 * Are there many solutions to a design challenge?
