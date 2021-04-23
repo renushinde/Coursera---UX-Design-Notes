@@ -13,7 +13,7 @@ Every product goes throgh a specific sets of steps that males it possible to the
 UX research takes place before, during and after phase3- Design. Research that takes initially/ before is called foundational research. 
 The goal of foundational reserarch is define the problem by asking questions what should we build, what are the user problems, how can we solve them?
 
-Research that takes place during the design phase is called Design Research. Questions to ask to users during this phase:
+Research that takes place during the design phase is called Design Research. The most common method used to conduct design research is a usability study, Questions to ask to users during this phase:
 How was your experience using the prototype today? 
 How easy or difficult was it to use? Why?
 Did you encounter any challenges? 
