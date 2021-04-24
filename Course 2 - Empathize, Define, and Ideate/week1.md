@@ -20,4 +20,4 @@ Did you encounter any challenges?
 
 Research that takes place at the end of design phase is called Post Launch Research and it asks users about their experience if they liked the product or not?
 
-### Research Methods
+## Research Methods
