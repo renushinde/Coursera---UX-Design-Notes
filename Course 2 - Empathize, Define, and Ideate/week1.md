@@ -21,3 +21,6 @@ Did you encounter any challenges?
 Research that takes place at the end of design phase is called Post Launch Research and it asks users about their experience if they liked the product or not?
 
 ## Research Methods
+Research methods are categorised into - 1. Who conducts the research and the type of data collected. 
+The first way is divided into two methods - **Primary Research** and **Secondary Research**
+The second way is divided into- **Qualititive Research** and **Quantitive Research**
