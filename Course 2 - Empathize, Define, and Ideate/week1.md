@@ -24,3 +24,11 @@ Research that takes place at the end of design phase is called Post Launch Resea
 Research methods are categorised into - 1. Who conducts the research and the type of data collected. 
 The first way is divided into two methods - **Primary Research** and **Secondary Research**
 The second way is divided into- **Qualititive Research** and **Quantitive Research**
+
+## Biases in Research - Bias is making an opinion about someone without even knowing them. 
+* confirmation Bias
+* False consensus Bias
+* Primacy Bias
+* Implicit Bias
+* Recency Bias
+* Sunk cost fallacy
