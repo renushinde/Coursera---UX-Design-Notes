@@ -29,6 +29,6 @@ The second way is divided into- **Qualititive Research** and **Quantitive Resear
 * confirmation Bias
 * False consensus Bias
 * Primacy Bias
-* Implicit Bias
+* Implicit Bias - also known as unconscious bias, is the collection of attitudes and stereotypes associated with people without conscious knowledge.
 * Recency Bias
 * Sunk cost fallacy
