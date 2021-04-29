@@ -10,4 +10,6 @@ Empathy is understanding someone else's feelings or thoughts in a situation. Emp
 * Follow UX researches.
 
 
-## MAke an Empathy Map
+## Make an Empathy Map
+## Pain points - 
+Pain points are any UX issues that frustrate the user and block the user from getting what they need.
