@@ -8,3 +8,6 @@ Empathy is understanding someone else's feelings or thoughts in a situation. Emp
 * Ask for input.
 * Avoid Bias/ have open mind.
 * Follow UX researches.
+
+
+## MAke an Empathy Map
