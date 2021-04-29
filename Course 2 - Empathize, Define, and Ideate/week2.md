@@ -20,3 +20,5 @@ Pain points are any UX issues that frustrate the user and block the user from ge
 * Support
 * Process
 * Support
+
+## Creating Personas 
