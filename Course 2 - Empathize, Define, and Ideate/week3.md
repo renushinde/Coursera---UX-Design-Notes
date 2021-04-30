@@ -14,3 +14,6 @@
  * highlighting new pain points, 
  * reducing the impact of designer bias, 
  * helping create obstacle-free paths for users.
+
+## Accessibility
+It’s important to consider someone with a disability when creating personas, user stories, and user journeys because not addressing the needs of someone with a disability can have serious consequences. Consider if fire safety escape routes didn’t include routes for wheelchairs, or if grocery stores and medical practices didn’t include accessible entrances.
