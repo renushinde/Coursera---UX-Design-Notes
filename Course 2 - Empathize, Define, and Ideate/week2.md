@@ -22,3 +22,4 @@ Pain points are any UX issues that frustrate the user and block the user from ge
 * Support
 
 ## Creating Personas 
+Personas are fictional users whose goals and characteristics represent the needs of a larger group of users. Personas are also context-specific, meaning they should be focused on the behaviors and goals of users interacting with the product effectively.
