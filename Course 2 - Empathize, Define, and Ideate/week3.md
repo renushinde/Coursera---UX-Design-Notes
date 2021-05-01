@@ -17,3 +17,6 @@
 
 ## Accessibility
 It’s important to consider someone with a disability when creating personas, user stories, and user journeys because not addressing the needs of someone with a disability can have serious consequences. Consider if fire safety escape routes didn’t include routes for wheelchairs, or if grocery stores and medical practices didn’t include accessible entrances.
+
+## Curb effect
+A phenomenon that describes how products and policies designed for people with disabilities often end up helping everyone.
